@@ -12,7 +12,7 @@ const projectsData = [
     image: "./images/projects/1.png",
     alt:"image",
     tag: ["All", "Projects"],
-    gitUrl: "https://github.com/prasa-c/OrchidFoods---Frond-end",
+    gitUrl: "https://github.com/prasa-c/Orchid-Foods-Complete",
     previewUrl: "./images/projects/1.png",
   },
   {
