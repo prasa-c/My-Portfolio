@@ -115,6 +115,16 @@ const projectsData = [
     gitUrl: "https://www.figma.com/design/c9MYtrH6pRGcPHlbdURsVY/Design---3?node-id=0-1&t=QkImJfvrwng3LVdD-1",
     previewUrl: "https://www.figma.com/proto/c9MYtrH6pRGcPHlbdURsVY/Design---3?node-id=1-297&t=qN1veJcA9S2w52je-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A297&show-proto-sidebar=1",
   },
+  {
+    id: 12,
+    title: "Summari Z",
+    description: "Article Summarizing website that use Open Ai Technologies with React JS, Vite, Tailwind CSS and Redux Toolkit",
+    image: "./images/projects/12.png",
+    alt:"image",
+    tag: ["All", "Projects"],
+    gitUrl: "https://github.com/prasa-c/Summari-Z",
+    previewUrl: "./images/projects/12.png",
+  },
 ];
 
 const ProjectsSection = () => {
