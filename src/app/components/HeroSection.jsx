@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl font-normal font-extralight">
-          <span className="font-bold text-white">Designer :</span> Specializing in UI Design and Design Systems.<p className="mt-3"><span className="font-bold text-white">Developer :</span> who writes Clean, Elegant & Efficient Codes. </p>
+          <span className="font-bold text-white">Designer :</span> Specializing in UI Design and Design Systems.<p className="mt-3"><span className="font-bold text-white">Developer :</span> Who writes Clean, Elegant & Efficient Codes. </p>
           </p>
           <div>
             <Link
