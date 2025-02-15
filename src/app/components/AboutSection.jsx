@@ -12,19 +12,19 @@ const TAB_DATA = [
         <li>
           <span className="font-bold">Front-End Development</span> : HTML5 &
           CSS3 | Tailwind CSS | Bootstrap | React | JavaScript | Flutter
-          (Mobile) | Angular
+          (Mobile) | Angular | Next.JS
         </li>
         <li className="mt-2">
           <span className="font-bold">Back-End Development</span> : PHP | Java |
-          Python | Firebase
+          Python | Firebase | Spring Boot
         </li>
         <li className="mt-2">
           <span className="font-bold">Database Management</span> : MySQL |
-          Firebase (Mobile)
+          Firebase (Mobile) | MongoDB
         </li>
         <li className="mt-2">
           <span className="font-bold">Cloud Computing & Infrastructure</span> :
-          AWS | Cloud Computing
+          AWS | Google Cloud
         </li>
         <li className="mt-2">
           <span className="font-bold">Version Control System</span> : Git
@@ -33,7 +33,7 @@ const TAB_DATA = [
           <span className="font-bold">Project Management Tools</span> : JIRA
         </li>
         <li className="mt-2">
-          <span className="font-bold">UI/UX Designs</span> : Figma | Canva
+          <span className="font-bold">UI/UX Designs</span> : Figma | Canva | Adobe XD
         </li>
       </ul>
     ),
@@ -88,6 +88,14 @@ const TAB_DATA = [
           (Meta)
         </li>
         <li className="mt-2">
+          <span className="font-bold">Figma UI/UX Complete Bootcamp.</span>{' '}
+          (Udemy)
+        </li>
+         <li className="mt-2">
+          <span className="font-bold">UI/UX with Figma and Adobe XD.</span>{' '}
+          (Udemy)
+        </li>
+        <li className="mt-2">
           <span className="font-bold">
             Introduction to Digital Transformation with Google Cloud.
           </span>{' '}
@@ -100,6 +108,7 @@ const TAB_DATA = [
           <span className="font-bold">Diploma in Web Engineering Course.</span>{' '}
           (Esoft Metro Campus)
         </li>
+         
       </ul>
     ),
   },
